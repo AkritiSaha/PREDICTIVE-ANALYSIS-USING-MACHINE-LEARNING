@@ -73,13 +73,6 @@ Features:
 
 
 
-Deliverables
-
-- `iris_predictive_analysis.ipynb`: Jupyter Notebook with code and visualizations
-- `README.md`: Project overview and summary
-- ML model demonstrating feature selection, training, and evaluation
-
-
 Conclusion
 
 This project showcases how to use basic machine learning tools to analyze data and build a reliable prediction model from scratch. It's a great beginner-friendly application of supervised classification using the Iris dataset.
